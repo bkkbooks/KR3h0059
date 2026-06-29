@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3h0059/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部八
+  hash: sha256:ed7b890dbd4c5a48db16c46d7fbf2f236332a20a938d6348e5c3606dd689b6ba
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0059_WYG_000-1a, image: WYG0817/WYG0817-0619a.png}
+body:
+  text: 南陽書畫表藝術類一書畫之屬提要臣等謹案南陽法書表一卷南陽名畫表一卷明張丑撰所列皆韓世能家收藏真跡法書表凡作者二十七人計七十二件分五格上為時代下以正書行狎草聖石刻四等各為一格名畫表凡作者四十七人計九十五圖亦分五格上為時代而下以道釋人物為一格山水界畫為一格花果鳥獸為一格蟲魚墨戯為一格例又小别二表前皆有丑自序盖先表法書既而世能之子朝延併屬兼表名畫也世能字存良長洲人隆慶時進士官至禮部尚書喜收名跡董其昌洛神賦跋所稱館師韓宗伯者是也其稱南陽者韓氏郡望南陽猶韓維之稱南陽集耳乾隆四十六年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:5e978164d893b20b38d372ceb961e2a711020a30e6835f16fe0d8dd7401fdd4c
+metadata:
+  title: 南陽書畫表
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:15:48.570427'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3h0059/KR3h0059_000.txt
+hash: sha256:add1451bb5efb7bc0700b9db2510a733ecc7a2dfd26fd63c65d06841c2cdfd45
